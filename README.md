@@ -30,7 +30,7 @@ The trained model is stored in the `model.json`, `model_wts.h5` and `model.h5` f
 `python3.5 drive.py model.json`
 
 
-### Envirenment Details
+### Environment Details
 
 The environment details that were used to train and test the model are stored in the `env.yml` file. To train the model again simply use 
 
@@ -191,6 +191,6 @@ Training Track
 ## Discussions 
 ---
 
-I first started by trying to create my own dataset by driving around the track but since it did not seem like a feasible option, I augemented the dataset provided by Udacity and trained my model on it. The model works pretty good on track 1, as seen in the video. On ttrack 2, the model starts fine but as soon as it encounters a turn that needed an extremely high steering angle it fails because of the lack of suh samples in the training dataset. The video for the track 2 is available [here](./track2_output.mp4)
+I first started by trying to create my own dataset by driving around the track but since it did not seem like a feasible option, I augemented the dataset provided by Udacity and trained my model on it. The model works pretty good on track 1, as seen in the video. On track 2, the model starts fine but as soon as it encounters a turn that needed an extremely high steering angle it fails because of the lack of suh samples in the training dataset. The video for the track 2 is available [here](./track2_output.mp4)
 
 The model's performance can be improved by providing a more diverse data for taining, something that has more tighter corners and bigger turns so that the model knows what to do in such cases. To enhance the data other data augmentation technoques can also be looked at. In order to train the model to more realisitic scenarios, we also need to provide data with obstacles and traffic rules and signs. Also, training the model for more epochs, might also imporve its performance
