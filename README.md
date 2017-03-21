@@ -13,6 +13,13 @@ The goals / steps of this project are the following:
 * Use the model to drive the vehicle autonomously around the first track in the simulator. The vehicle should remain on the road for an entire loop around the track.
 * Summarize the results with a written report
 
+<sub>
+References - 
+1. https://srikanthpagadala.github.io/serve/carnd-behavioral-cloning-p3-report.html
+1. https://github.com/ksakmann/CarND-BehavioralCloning
+1. https://github.com/upul/Behavioral-Cloning
+</sub>
+
 
 ### Running the model
 
