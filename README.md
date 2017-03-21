@@ -15,9 +15,11 @@ The goals / steps of this project are the following:
 
 <sub>
 References - 
+
 1. https://srikanthpagadala.github.io/serve/carnd-behavioral-cloning-p3-report.html
 1. https://github.com/ksakmann/CarND-BehavioralCloning
 1. https://github.com/upul/Behavioral-Cloning
+
 </sub>
 
 
