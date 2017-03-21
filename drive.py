@@ -1,3 +1,10 @@
+'''
+References - 
+1. https://srikanthpagadala.github.io/serve/carnd-behavioral-cloning-p3-report.html
+2. https://github.com/ksakmann/CarND-BehavioralCloning
+3. https://github.com/upul/Behavioral-Cloning
+'''
+
 import argparse
 import base64
 import json

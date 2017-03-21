@@ -1,3 +1,10 @@
+'''
+References - 
+1. https://srikanthpagadala.github.io/serve/carnd-behavioral-cloning-p3-report.html
+2. https://github.com/ksakmann/CarND-BehavioralCloning
+3. https://github.com/upul/Behavioral-Cloning
+'''
+
 import tensorflow as tf
 from keras.layers import Dense, Flatten, Lambda, Activation, MaxPooling2D
 from keras.layers.convolutional import Convolution2D
